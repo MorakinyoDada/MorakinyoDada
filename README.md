@@ -1,26 +1,27 @@
 ## Hi, I'm Morakinyo 👋
 
-Junior QA Tester with hands-on experience in manual testing, API testing, and SQL data validation.
+Quality Assurance Analyst with hands-on experience in structured manual testing, API validation, and SQL-based data verification.
 
-I focus on understanding requirements, designing clear and effective test cases, and reporting well-documented, reproducible defects that help improve product quality.
+I focus on translating requirements into traceable test cases, executing disciplined regression cycles, and documenting clear, reproducible defects that support stable and reliable releases.
 
-### 🧪 Tools
-- Manual Testing
-- Postman
-- SQL
-- Jira
-- GitHub
-- Selenium (basic)
+### 🧪 Tools & Technologies
+- qTest (test case management & execution)
+- Jira (defect lifecycle & workflow tracking)
+- Postman (API validation & response inspection)
+- SQL (backend data verification)
+- Selenium (foundational UI automation)
+- GitHub (documentation & artifact management)
 
-### 📋 QA Skills
-- Test case design and execution
-- Defect reporting and tracking
-- Exploratory testing
-- API testing and backend validation
-- Requirement analysis
+### 📋 Core QA Competencies
+- Requirement analysis and risk-based test planning
+- Structured test case design and execution
+- Defect lifecycle management with impact assessment
+- Exploratory and regression testing
+- API validation and cross-layer verification
+- Traceability and release-aligned testing practices
 
 ### 📁 QA Portfolio
-My testing projects will be added below as separate repositories, including:
+This portfolio demonstrates structured, lifecycle-based testing across multiple layers, including:
 - Manual testing projects
 - Bug reporting samples
 - API testing collections
